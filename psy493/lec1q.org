@@ -1,0 +1,119 @@
+Lecture 1 Questions
+
+* What is Cognitive Neuroscience:
+  - Cognitive Neuroscience can be best described as the field of study at the intersection 
+    of cognitive science and neuroscience.
+  - It is concerned with understanding the neural basis of cognition and is primarily driven 
+    by data derived from experiments
+  - The neural basis of cognition is the proposed underlying biologoical neural circuits 
+
+* Timeline of cognitive neuroscience. Why is it such a young field? Why were mental processes not studied for so long?
+  - Timeline goes from field of philosophy to cognitive neuroscience
+  - 1. Physicians note correlations between brain and behaviour
+  - 2. Advances in neuroscience (staining, neuroanatomical studies)
+  - 3. Experimental evidence starts to get collected and analyzed in neuroscience
+  - 4. Cognitive revolution brought about by the advent of computers (marking the so called 
+    death of behaviourism)
+  - 5. Advanced neuroimaging tools developed which allow us to map the live brain with 
+    high precision and clarity
+  - 6. current time point
+  - Cognitive Science is a young field (~ 40 yrs) because for most of the history of pyschology,
+    research was not entirely quantitative, nor focused on mental processes, as much as they were focused
+    on behaviours produced
+  - The study of mental processes was avoided for a long period of time because for one thing, there were
+    no tools to really peer into how certain mental processes occured. As well, there was no experimental setup
+    to identify important metrics such as speed of mental processes (Donders was the first to propose such things)
+  - As well, developments of computer technology and ability to process large amounts of data provided renewed
+    interest and insight into uncovering our brains perform certain functions
+  - These advancements led to (creation?) of cognitive neuroscience.
+
+* What is the network based approach? What details are we interested in?
+  - the network based approach is to model the brain as a network of regions which communicate and send
+    information (in the form of electrical impulses/or lack thereof) by way of neuronal connections
+  - the main details we are interested in this model when loking at specific behaviours and their underlying
+    neuronal mechanisms are which brain regions are involved (nodes), and whether the communication between
+    two regions is inhibitory or excitory.
+  - we are also interested in the effect of changes in brain areas (grow/shrink) to behaviour
+
+* Theory of LBF? Evidence? Is this idea universally accepted?
+  - The theory of localized brain function states that specific brain regions had specifc behavioural
+    functions and that neuronal circuits in one region of the brain are tied to one behaviour and neuronal
+    circuits in another region are tied to another behaviour.
+  - much of the evidence for this theory comes from the study of brain lesions. We note that in cases
+    where individuals have lesions, their behaviour is altered in a noteicable and distinct way. This suggests
+    that perhaps the area of the brain with the lesion is where that impaired behaviour is usually derived from.
+  - This idea is not universally accepted as much evidence has shown that multiple brain regions play a role
+    in specific behaviours, and that it is not generally possible to tie down neuronal mechanisms of such behaviour
+    to a specific brain region
+  - As well, since the size of data from lesions study is not that large, and many of the impairments are
+    seen once or twice in lesion studies, we cannot say these studies provide conclusive arguments for the
+    theory of localized brain functions. (Though they do provide a great play to look using modern brain
+    scanning tools)
+
+* BA model? How is it prepared? Which recent models refer to BA landmarks?
+
+* Donders experimental approach. Why was it significant?
+  - Donders performed this experiment in 1968:
+  - Simple task: you are told to enter the "J" key on the keyboard when you see a light flash on the screen
+  - Choice task: you are told to enter the "J" key on the keyboard if the light appears on the left side 
+    of the screen, and "K" key if light appears on the right side
+  - Simple task requires the person to percieve the light + press the key
+  - Choice task requires the person to percieve the light + decide if its on the left or 
+    right side and correspondingly decide which key to press + press key
+  - The reaction time for Simple task = time for perception + time for action
+  - The reaction time for Choice task = time for perception + time for comparison + time for action
+  - The time for the decision making process (comparison step) = Reaction time for 
+    Choice task - Reaction time for Simple task = subtractive RT
+  - Donders experiment showed how we could make inferences about mental processing from the 
+    observation of behaviour which was significant because this was the first experiment to measure
+    the reaction time for decision making
+  - the process by which we infer the speed of mental processes from observation of behaviour is called
+    mental chronometry
+
+* Why did it take long for cognitive neuroscience to emerge as a field?
+  - refer to timelien
+  - mostly because for a long time, psychologists focused on aspects of human behaviour and processes without studying the mental 
+    processes which underly those behaviours
+  - this wasnt entirely because they didnt want to, but because there were no ideas about how to do so
+  - as technology progressed, and people like Donders devised frameoworks to quantitatively measure aspects of mental processes (so as to derive insights
+    into these processes), the field started to form
+  - The main catalyst may have been the development of the computer (code + hardware), which provided academics to ponder whether we should view the mind
+    in the same way engineers viewed computers
+
+* Experience dependent neurplasticity? When does it occur? Comment on current methods to visualze such changes
+  - 
+
+* Difference between gray and white matter
+  - Gray matter is on the outer layer of the cortex (roughly 2-4 mm thick) and is composed of tightly packed neuron cell bodies (nuclei)
+  - the white matter is the area where all the axons are clustered and the reason it is called white matter is because axons are covered in myelin, which is a white
+    fatty substance.
+  - As well, the gray matter is folded with peaks being gyri and valleys being sulci, and this is to be able to pack more cell bodies into that area
+
+* major subdivisiions of the brain 
+  - the brain us subdivided into the forebrain, midbrain, and hindbrain
+  - there are 4 lobes of the brain:
+    - Frontal: responsible for planning, organisation, inhibition of behaviour
+    - Parietal: functionally diverse
+    - temporal: involved in object recognition, memory, auditory, other stuff
+    - occipital: involved exclusively for visual processing
+  - these 4 lobes are seperated by fissures, which are large amounts of sulci
+
+* Structures in Telencephalon
+  - Contains the cortex, basal ganglia, and limbic system
+
+* Structures in Limbic system:
+  - cingulate cortex
+  - hippocampus
+  - amygdala
+  - mamillary body
+  - septum
+
+* 3 dimensional axis system used to navigate the brain
+  - Medial-Lateral axis: inside and outside of the brain
+  - Rostral-Caudal axis Anterior and posterior of the brain/Front and back of the brain
+  - Dorsal-Ventral axis: Top and bottom of the brain
+  - Example: ventromedial hypothalamus = bottom middle/inside of the hypothalamus
+  - When viewing cross sections of the brain, we use the coronal, horizontal, and sagittal sections
+  - coronal plane = frontal viewpoint
+  - horizontal plane = dorsal viewpoint
+  - sagittal plane = medial viewpoint

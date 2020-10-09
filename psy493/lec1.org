@@ -1,0 +1,153 @@
+
+Game plan: Try to finish up first 3 lectures tomorrow. Once each lecture is complete, answer the questions on the study sheet. Repeat the next day
+for the last lecture + study problems. Review any information holes + interesting areas.
+
+* Part 1: What is Cognitive Neuroscience?
+- concerned with the neural basis of cognition (intersection of neuroscience and cogsci)
+- results driven by data collected in experiments
+- network based approach: brain areas work together to generate behaviour (can be represented in a network where nodes are brain areas 
+  and edges are inhibitory/excitory connections)
+- basic questions for network based approach:
+  - which nodes?
+  - nature of processing of the nodes (serial, parallel?)
+  - are edges inhibitory or excitory
+  - effect of changes in brain areas to behaviour
+
+* Part 2: History of Cognitive Neuroscience
+- psych is roughly 140 yrs old, and cogneurosci is roughly 40 yrs old!
+- how did the scientists and philosphers of old figure out that the brain is what houses/drives/produces the mind?
+- Hippocrates, Galen among two phsyicians who argued that the brain had a role in behaviour, but they did not now how
+- Willis and Wren produced high quality drawings of the brain (useful for 200 yrs). They studied the anatomy of the brain in detail
+- Gall (18th century) argued that different brain regions had different functions
+  - this idea of localized brain function is still not settled
+- Gall also suggested the earliest idea of neurplasticity
+  - Experience-dependent neurplasticity is widely accepted (brain regions change and grow/deteriorate over time => functions also change)
+- phrenology:
+  - brain ares related to mental traits and change in size with use of traits
+  - this implies that large enough changes in brain would cause noticeable changes in the cranium
+  - by meausring this delta in cranium, we could "understand" the brain undernearth and the mental traits that area controlled
+  - scammers would give phrenology examinations to people in the marketplace
+  - it is now considered a pseudoscience
+- in reality, meaningful changes in the brain are so subtle that they are often undetectable
+- Experimental approach allows us to infer causal relationships between variables
+- experiment: controlled env where we study and collect data on relationship between defined set of vars while controlling the rest of the vars
+  - var manipulated: independent variables
+  - var measured: dependent variables
+  - all other vars: kept constant
+- lesions: methods deactivate brain regions
+- stimulation: methods which activate brain regions
+- experimental data has been collected to show that we can produce brain lesions/stimulations to change behaviour
+- Brodman map (1909)
+  - cell staining methods to study the organisation and properties of cells
+  - if we believe that different structures produced different functions, then by mapping out the structure of cells we are also mapping out cell functions
+  - using this belief + cell staining methods, brodman studied the histological structure of neurons (cytoarchitecture)
+  - he found 52 ares which may serve different functions (called brodman areas)
+  - brodman areas - though imperfect - are still used as general landmarks in the neuroscience
+- BA map seems consistent with localization of function
+- today, we note that single brain regions can serve mutliple functions and any one behaviour observed is generally a result of many brain regions working together
+- note that "behaviour" is a very general term
+- history of psychology (for the most of psych history, the study of mental processes creating behaviour have not been studied) why? -> see below:
+  - structuralism:
+    - identify contents of mental processes through analytic introspection
+    - by studying ingredients experiences (what makes up the ingredients of an experience such as smelling a cake?)
+  - functionalism:
+    - focus on purpose of mental processes, but not their contents
+    - focus on why mental processes are useful
+  - Pyschodynamics:
+    - case studies on mental processes (but not experimental, so no useful data)
+  - behaviourism:
+    - ignoring mental processes and focusing on mental processes
+    - focus of relationship between stimuli and behavioural response
+    - the mental processes are black boxes in these experiments
+    - relationship between stimulus and response is determined through reinforcement + punishment affecting the rate of behaviour
+    - blank slate idea: "anyone can be anything" through experiences
+- behaviours cannot be useful on their own, without an understanding of their mental processes
+- limitations of behaviourism:
+  - cannot explain the development of language
+  - babies say original things which have never been reinforced
+  - suggest some behaviours may be innate
+  - conflicts with infant attachment theory which states that children who spend a lot of time with their parents at young ages tend to depend on them less
+    as time progresses. This flies in the face of behaviourism as your time with your parents should reinforce and maintain that behaviour as time progresses
+- Donders innovative experiment (1968):
+  - Simple task: you are told to enter the "J" key on the keyboard when you see a light flash on the screen
+  - Choice task: you are told to enter the "J" key on the keyboard if the light appears on the left side of the screen, and "K" key if light appears on the right side
+  - Simple task requires the person to percieve the light + press the key
+  - Choice task requires the person to percieve the light + decide if its on the left or right side and correspondingly decide which key to press + press key
+  - The reaction time for Simple task = time for perception + time for action
+  - The reaction time for Choice task = time for perception + time for comparison + time for action
+  - The time for the decision making process (comparison step) = Reaction time for Choice task - Reaction time for Simple task = subtractive RT
+- Donders experiment showed how we could make inferences about mental processing from the observation of behaviour
+- Mental Chronometry: calculating time required for certain mental processes
+- Ebbinghaus Experiment:
+  - memorize strings of nonsense (ex. DAX, LUH, ZIF) in order they are delivered until you meet proficiency
+  - how does memory change over time?
+  - Recall decreases over time and the rate of this decline can be measured
+  - Experimental results suggest that most of the forgetting occurs within the first two days and then the forgetting mechanism roughly plateaus with a slight decline
+  - Suggests that what we still remember after the first two days, we will still remember in the upcoming weeks/month
+  - Demonstrates why cramming is not the strat (lol)
+- The developments of computer technology led to renewed interest mental processes, and away from behaviourism
+  - one such development was the software + hardware to allow computers to process information. This caused researchers to re-evaluate how our brains may be processing
+    and moving around information
+  - there were also conferences on computer tech which ignited the first AI research interests
+- Broadbents model of cognition: input -> filter -> detector -> stored in memory
+- To really get insight into the neural mechanisms which underly behaviour, we need to be able to measure and map out neural structure + activity in the live (as opposed to
+  post mortem which was done) human brain
+- Three major ways for measuring the brain: EEG (1920) + ERP (1960), PET (1970), FMRI (1990). Note all dates are approximate and for more info, visit lecture 2
+- Neuroimaging techniques are a cornerstone of cognitive neuroscience
+
+* Part 3: Review of Neuroanatomy
+- Nervous system is divided into CNS (central nervous system) and PNS (peripheral nervous system)
+- CNS = brain + spinal cord (does all the processing)
+- PNS = sensory + motor connections/nerves in the body
+- neurons are excitable cells that generate and conduct electrochemical signals
+- cell bodies are thought to cluster tightly together in outer gray rim of the brain (cortex)
+- the axons are thoght to cluster together in the white matter (they are white because axons are covered in myelin, which is a white fatty thing) (subcortex)
+- note that the cortex is folded to be able to hold more cell bodies. peaks are gyrus and valleys are sulci
+- brain can be divided up into 3 regions
+  - forebrain: tenecephalon, diencephalon
+  - midbrain: mesencephalon
+  - hindbrain: metencephalon, myelencephalon
+- Telencephalon
+  - includes the cortex + basal ganglia + limbic system structures
+- the outer layer (bark) is roughly 2-4 mm in humans in thickness
+- cortex subdivided up into neocortex (6 layers) + allocrtex (3 layers)
+- in humans, 90% of cortex in neocrtex
+- four lobes of the brain:
+  - Frontal
+    - controls planning, organisation, inhibition of behaviour?
+  - Parietal
+    - functionally diverse
+  - Temporal
+    - involvement in object recognition, memory, auditory, bunch of other stuff
+  - Occipital
+    - exclusively involved in visual processing
+- the lobes are seperated by fissures (bunch of sulci)
+- surface of the brain
+  - longitudinal fissure: seperates left and right hemisphere
+  - central fissure: seperates frontal and parietal lobes
+    - either end of fissure: pre-central(before) gyrus: frontal lobe, post-central (after) gyrus: parietal lobe
+  - lateral fissure: seperates frontal and parietal lobes from the temporal lobe
+- limbic system structures:
+  - cingulate cortex
+  - hippocampus
+  - amygdala
+  - mamillary body
+  - septum
+- basal ganglia: check slides
+- diencephalon
+  - thalamus: relay center for incoming sensory information (except olfactory input)
+  - hypothalamus: drive center: fighting, fleeing, feeding, fucking? (it says "sweet love" in the slides lmao) (four f's)
+- mesencephalon, metencephalon, myelencephalon: refer to slides
+- 3 axis for navigating the nervous system:
+  - medial lateral axis
+    - inside and outside of brain
+  - rostral caudal axis
+    - front(anterior) and back(posterior) of brain
+  - dorsal ventral axis
+    - top to bottom of brain
+- examples:
+  - ventromedial hypothalamus = bottom middle of the hypothalamus
+  - posteromedial hypothalamus = back middle of hypothalamus
+  - dorsolateral frontal cortex = top outer part of frontal cortex
+  - rostrolateral frontal cortex = front (anterior) outer part of frontal cortex
+- coronal, horizontal, sagittal sections: refer to slides (these three sections are how you might view the a cross section of the brain)

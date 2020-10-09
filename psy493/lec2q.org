@@ -1,0 +1,13 @@
+Lecture 2 Q's
+
+* Explain rate and population encoding with examples of each:
+  - Population encoding is when different neurons encode different mental states/experiences
+  - this means that there is one neuronal circuit that fires when we fall in love, and another 
+    one when we smell a cake
+  - rate encoding is when the experiences are encoded as a function of the rate of excitation of the 
+    neuronal circuits (different firing rates => different experiences)
+  - 
+
+* Factors which affect the firing rate in neurons?
+
+* How are inputs transformed in the specific neural networks (examples) + why is this useful?

@@ -1,0 +1,82 @@
+
+* Part 1: Encoding Information
+  - the structure and organisation of neurons differs by area => different regions may have different functions
+  - big question: how does our brain generate multiple different radically different experiences (ex. falling in love vs presentation anxiety vs joy of 
+    successfully bluffing in poker vs etc...)
+  - two possibilites of how this might occur: population, rate encoding
+  - Population encoding: different neurons encode different experiences/mental states
+    - two different memories are associated with activity of different, non overlapping populations of neurons
+    - helps to explain how we can differentiate two different memories
+    - consistent with localization of function perspective as we can explain why specific brain lesions impair specific cognitive functions
+    - extremely unlikely that all different experiences are stored through population encoding:
+      - some neurons fire without any stimulus (so what does it encode under population encoding theory)
+      - experimental data shows that many neurons fire to more than one stimulus (overlapping neurons, which population encoding argues argainst) 
+  - rate encoding: different rates of firing of neurons encode different experiences
+    - neurons encode experiences by modulating their firing rate for each experience
+    - ex: different levels of skin pressure causes touch receptor to fire electrical signal at different rates
+    - rate encoding is a more efficient idea because we can overlap many collections of neurons to encode multiple different experiences
+    - limitations:
+      - many neurons do not fire constantly
+      - we know specific brain regions are responsible for specific tasks (specialized)
+  - integrated solution: experiences are a function of neuronal circuits + firing rates of those circuits
+  - halle barry neurons respond most strongly to pictures of halle berry + name "halle berry"
+  - neurons are likley part of larger populaion of cels that collectively represent the concept of halle berry
+    - perhaps there is such a thing as a "person" neuron which fires specifically for human faces, and more strongly to familiar faces we've seen
+    - so these neuronal circuits probably activate to faces (population encoding). now the rate at which they fire would encode the concept of that face
+      - so those faces which are very familiar and recognizable to us will have firing rates which are far apart, while those that are not so familiar, have 
+	closer firing rates (spread between them isnt as large as for faces which are familar). also, perhaps two faces which are similar in features have a small spread
+	in firing rate due to their shared similarities
+  - note neurons can both excite and inhibit other neurons (this provides a method to modulate rate of firing, or whether neuron even fires)
+  - two chemicals: inhibitory: GABA and excitatory: Glutamate (firing rate is being modified by a combination of these two signals)
+  - neurons fire when the sum of their input signals is beyond some threshold
+  - theory: we can distinguish similar stimuli if each stimulus is associated with a different neuronal activity
+  - pattern seperation: ability to transform similar inputs X and X' into different and distinctive outputs X and Y
+  - pattern seperation helps us make distinctions between similar inputs, and is believed to occur in the hippocampus
+
+* Part 2: Mental representations
+  - we create internal mental reps of each stimulus to which we can react
+  - the arrangement of letters in a word is very important for activating mental reps of that word
+  - we are not seeing what is there, we are seeing the representation our brain creates
+  - serial processesing of words: S0 -> S1 -> ... -> Decision -> Response
+  - parallel processing of words: Multiple letters processed at once: S0 + S1 -> S2 + S3 -> ... -> Decision -> Response
+    - belief that first and last letters are given highest weights, which explains why we can read a word where the middle letters are misplaced
+      but the first and last letter are correct and our brain still responds with the correct word
+  - processing type depends on the task
+    - when scanning for a letter, we do serial processing (we kow this from the time taken: linear time with respect to number of letters in sequence)
+    - reading a word: parallel
+  - length of time to make a decision (mental chronometry) is what gives insight into mental representations
+
+* Part 3: Measuring brain structure and activity
+  - how do we determine which brain areas are involved for a given behaviour?
+    - correlational: look at what areas are active during certain active behviours
+    - causal: manipulate areas of the brain and observe what behaviours are caused/inhibited
+  - part 3 will look at correlational
+  - if cognitive process is impaired by damage to specific brain region, then we may assume that region is vital for that cognitive process (lesion studies justification)
+  - if cognitive processes are associated with activation of specific brain regions, then we assume that region is vital for that process (logic for all other studies)
+  - following techniques provide insight into brain structure/function
+  - lesion studies:
+    - big part in psych/cogneurosci progression
+    - in lesion studies, we want to strong evidence that a brain area controls a specific behavioural function, but not other functions
+    - ex: removal of hippocampus and adjoint areas (to treat epilepsy) => impaired memory
+    - ex: phineas gage: lesion of frontal lobe => impaired social behvaiour + impulsivity
+    - ex. lesion of amygdala => reduction in fear
+    - dissociation in lession studies: two people with different lesions show two different impairments in behavioural functions
+      - person A has trouble vowel writing, person B has more trouble consonant writing => these 2 functions may be dissociated functions => different brain regions involved
+    - single dissociation: function A impaired, but function B isnt impaired (one individual)
+      - A, B may be independent
+    - double dissociation:
+      - Alice: function A intact, function B impaired
+      - Bob: function A impaired, function B intact
+      - implies that A, B are likely independent and likely have different underyling mechanisms
+    - limitations:
+      - usually, lesions are not exactly in only one region (generally invove multiple regions) => cannot say for sure which region is responsible for behaviour (more appropriate
+      to say these collection of regions are involved)
+      - many lesion cases are rare, and with such little data (and so much variation in this data), it is hard to make any conclusive argument
+    - usually done post mortem
+  - for measuring live brains, we want to consider the following for each technique:
+    - spatial resolution: resolve details in brain structure
+    - temporal resolution: resolve brain activity over time (correlates of brain activity)
+    - there are tradeoffs between different techniques and one must consider the cost vs benefits of using a specific technique over another
+  - 
+
+* Part 4: Manipulating brain activity

@@ -1,0 +1,18 @@
+
+* Part 1: Review
+  - recall from lecture 2 that we react to the constructed world in our head (mental reps)
+  - sensation: recieving, collecting, amplifying info fom env (by way of sensory organs)
+  - perception: interpreting/orgamizing this info so that we can react to it
+  - sensory organs contain specialized receptors, which are attached to neurons and which send signals to the brain
+  - 5 senses: vision (eyes), hearing (ears), touch (skin), smell (nose), taste (tongue)
+  - rate of firing is modulated over time
+    - touch receptors modulate quickly (you feel your clothes briefly as you place them on, and then barely aftwewards)
+    - pain receptors modulate slowly to signify that the tissue damage must be healed
+  - functional consequences of rate adaptation: ability to limit sensory input at any one time to be able to attend to other things/not filtering out signals
+    which need to be strong to indicate importance such as pain
+    - sensory neurons can still send information, but it becomes modulated over time even if the cause of excitation of this sense remains constant
+  - 
+
+* Part 2: The Senses
+
+* Part 3: Intersections between the Senses
